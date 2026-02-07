@@ -76,6 +76,7 @@ main {
   max-width: 70rem;
   margin: 0 auto;
   padding: var(--spacing-2xl) var(--spacing-md);
+  scroll-margin-top: 6rem;
 }
 
 .buttons-container {
